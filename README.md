@@ -1,4 +1,4 @@
-# Connect and network business - Backend
+# Fake Financial Institution - Backend
 
 ## Pre-reqs
 - Install [Node.js](https://nodejs.org/en/)
